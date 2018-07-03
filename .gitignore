@@ -42,7 +42,7 @@ testem.log
 Thumbs.db
 
 # Visual Studio Code
-.vscode
+/.vscode
 
 #package lock json
 package-lock.json
